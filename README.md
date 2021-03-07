@@ -13,3 +13,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 Leandro Galanterni, lgalant
 Peter
 Andrea
+Camila
